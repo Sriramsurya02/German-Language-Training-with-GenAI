@@ -11,6 +11,7 @@ def start_german_tutor():
             "Rule 1: Always reply in German first, followed by English in brackets. "
             "Rule 2: Correct my grammar and vocabulary errors. "
             "Rule 3: Always end your response with a follow-up question in German." # Incorporate any other rules or instructions you want the tutor to follow
+            "Rule 4: Keep the responses to a level of B1 - B2 German."
         ),
         temperature=0.7,
     )
